@@ -1,0 +1,2 @@
+Criar uma calculadora
+Verificar a senha de uma pessoa para o login
