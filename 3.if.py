@@ -16,3 +16,11 @@ elif alunos >= 20:
 else:
        print("Suspendemos a aula")
 
+
+
+horas = 11
+
+if horas == 10:
+      print("passear com o cachorro")
+else:
+      print("aguardar o horario")
